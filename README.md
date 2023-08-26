@@ -1,20 +1,16 @@
 <p align="center">
-    <img src="https://th.bing.com/th/id/R.0b77091f8d42263d78b1a1b4a147d841?rik=T%2b%2fUbDHVeMqDSA&riu=http%3a%2f%2fleandesign.com%2fwp%2fwp-content%2fuploads%2f2013%2f07%2felectronics-banner-02.jpg&ehk=5iKNPXyb%2bVERi633wizIQdK9RXKGp68%2bkqHIr%2bLrh6c%3d&risl=&pid=ImgRaw&r=0">
+  <img src="https://wallpaper.dog/large/10869697.jpg" alt="Banner" width="800" height="300">
 </p>
 
 <h1 align="center">Hi 👋, I'm SREERAJ S</h1>
 <h3 align="center">ELECTRONICS ENGINEER | ECE</h3>
 <div align="right">
-    <img align="right" width="300" src="https:<div align="right">
-    <img align="right" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+    <img align="right" width="200" src="https:<div align="right">
+    <img align="right" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreerajsanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="sreerajsanthosh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreerajsanthosh" alt="sreerajsanthosh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sreeraj61253122" target="blank"><img src="https://img.shields.io/twitter/follow/sreeraj61253122?logo=twitter&style=for-the-badge" alt="sreeraj61253122" /></a> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SREERAJSANTHOSH" alt="Profile Views">
+</p>
 - 🌱 I’m currently learning **Electronics | Networking**
 
 - 📫 How to reach me **sree98mdy@gmail.com**
@@ -37,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreerajsanthosh&show_icons=true&locale=en" alt="sreerajsanthosh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreerajsanthosh&" alt="sreerajsanthosh" /></p>
-
