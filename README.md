@@ -8,9 +8,6 @@
     <img align="right" width="200" src="https:<div align="right">
     <img align="right" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 </div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SREERAJSANTHOSH" alt="Profile Views">
-</p>
 
 - 🌱 I’m currently learning **Electronics | Networking**
 
