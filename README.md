@@ -11,12 +11,13 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SREERAJSANTHOSH" alt="Profile Views">
 </p>
+
 - 🌱 I’m currently learning **Electronics | Networking**
 
 - 📫 How to reach me **sree98mdy@gmail.com**
 
 - ⚡ Fun fact **Learning**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sreeraj61253122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreeraj61253122" height="30" width="40" /></a>
