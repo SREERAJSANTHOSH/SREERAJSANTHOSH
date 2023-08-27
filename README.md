@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://wallpaper.dog/large/10869697.jpg" alt="Banner" width="800" height="300">
 </p>
@@ -6,14 +7,26 @@
 <h3 align="center">ELECTRONICS ENGINEER | ECE</h3>
 <div align="right">
     <img align="right" width="200" src="https:<div align="right">
-    <img align="right" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+    <img align="right" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 </div>
 
-- 🌱 I’m currently learning **Electronics | Networking**
+<h3 align="left">👨‍🎓  About Me:</h3>
+
+- 🌱 I’m currently Learning **Electronics | Networking**
+  
+- 🎓 Diploma & Btech Graduate in Electronics And Communication
+
+- ⚙️ Completed Training Program courses in CCNA | MCSE
+
+- 🎒 Work Experience As Jr Network Engineer
+
+- ⚡ Fun fact : **Learning**
+
+- 🤹 Hobbies : Listening music 🎵 |  Drawing ✏️ | Video Games 🎮
 
 - 📫 How to reach me **sree98mdy@gmail.com**
-
-- ⚡ Fun fact **Learning**
+  
+  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
