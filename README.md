@@ -5,10 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm SREERAJ S</h1>
 <h3 align="center">ELECTRONICS ENGINEER | ECE</h3>
-<div align="right">
-    <img align="right" width="200" src="https:<div align="right">
-    <img align="right" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-</div>
 
 <h3 align="left">👨‍🎓  About Me:</h3>
 
@@ -19,8 +15,6 @@
 - ⚙️ Completed Training Program courses in CCNA | MCSE
 
 - 🎒 Work Experience As Jr Network Engineer
-
-- ⚡ Fun fact : **Learning**
 
 - 🤹 Hobbies : Listening music 🎵 |  Drawing ✏️ | Video Games 🎮
 
