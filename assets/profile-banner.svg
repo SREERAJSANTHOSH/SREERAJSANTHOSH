@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sreeraj S - Electronics and Communication Engineer</title>
+  <desc id="desc">A minimal dark engineering profile banner with a static technical-focus panel.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="0.55" stop-color="#0a1220"/>
+      <stop offset="1" stop-color="#101b2b"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.45" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#7dd3fc" opacity="0.07"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect x="680" width="520" height="320" fill="url(#dots)"/>
+    <circle cx="1030" cy="160" r="260" fill="url(#aura)"/>
+
+    <path d="M680 0V320" stroke="#7dd3fc" stroke-opacity="0.08"/>
+    <path d="M704 62H1150" stroke="#7dd3fc" stroke-opacity="0.08" stroke-dasharray="2 10"/>
+    <path d="M704 258H1150" stroke="#7dd3fc" stroke-opacity="0.08" stroke-dasharray="2 10"/>
+
+    <g transform="translate(70 54)">
+      <circle cx="4" cy="4" r="4" fill="#22d3ee"/>
+      <text x="22" y="9" fill="#7dd3fc" font-size="12" font-weight="700" letter-spacing="3.1">ELECTRONICS / DIGITAL SYSTEMS</text>
+
+      <text x="0" y="89" fill="#f8fafc" font-size="64" font-weight="760" letter-spacing="0.5">SREERAJ S</text>
+      <rect x="2" y="108" width="54" height="3" rx="1.5" fill="url(#edge)"/>
+      <text x="0" y="151" fill="#cbd5e1" font-size="23" font-weight="430">Electronics &amp; Communication Engineer</text>
+      <text x="0" y="187" fill="#94a3b8" font-size="14" font-weight="600" letter-spacing="1.25">FPGA &amp; VHDL  ·  PYTHON &amp; PyQt  ·  PCB  ·  NETWORKS</text>
+
+      <g transform="translate(0 220)" font-size="11" font-weight="700" letter-spacing="1.25">
+        <text x="0" y="0" fill="#67e8f9">ISRO-VSSC</text>
+        <circle cx="92" cy="-4" r="2" fill="#334155"/>
+        <text x="106" y="0" fill="#64748b">2024-2025</text>
+        <circle cx="198" cy="-4" r="2" fill="#334155"/>
+        <text x="212" y="0" fill="#64748b">KERALA, INDIA</text>
+      </g>
+    </g>
+
+    <g transform="translate(714 52)">
+      <text x="0" y="0" fill="#64748b" font-size="10" font-weight="700" letter-spacing="2.8">TECHNICAL FOCUS / 01</text>
+
+      <g transform="translate(0 48)">
+        <text x="0" y="0" fill="#38bdf8" font-size="11" font-weight="750">01</text>
+        <text x="42" y="0" fill="#e2e8f0" font-size="17" font-weight="620">Digital hardware</text>
+        <text x="42" y="23" fill="#64748b" font-size="12">FPGA programming · VHDL · VLSI design</text>
+      </g>
+
+      <line x1="0" y1="91" x2="430" y2="91" stroke="#7dd3fc" stroke-opacity="0.1"/>
+
+      <g transform="translate(0 126)">
+        <text x="0" y="0" fill="#22d3ee" font-size="11" font-weight="750">02</text>
+        <text x="42" y="0" fill="#e2e8f0" font-size="17" font-weight="620">Embedded &amp; PCB systems</text>
+        <text x="42" y="23" fill="#64748b" font-size="12">KiCad · FreeRTOS · circuit verification</text>
+      </g>
+
+      <line x1="0" y1="169" x2="430" y2="169" stroke="#7dd3fc" stroke-opacity="0.1"/>
+
+      <g transform="translate(0 204)">
+        <text x="0" y="0" fill="#2dd4bf" font-size="11" font-weight="750">03</text>
+        <text x="42" y="0" fill="#e2e8f0" font-size="17" font-weight="620">Software &amp; networks</text>
+        <text x="42" y="23" fill="#64748b" font-size="12">Python · PyQt · network infrastructure</text>
+      </g>
+    </g>
+
+    <rect x="0" y="317" width="1200" height="3" fill="url(#edge)" opacity="0.7"/>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" fill="none" stroke="#7dd3fc" stroke-opacity="0.12" stroke-width="1.5"/>
+</svg>
