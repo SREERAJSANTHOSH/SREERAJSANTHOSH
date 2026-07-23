@@ -192,20 +192,34 @@ I am an Electronics and Communication Engineering graduate working across **digi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sreerajsanthosh&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=2dd4bf&ring_color=22d3ee" alt="Sreeraj's GitHub statistics"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerajsanthosh&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Most used languages"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sreerajsanthosh&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=2dd4bf&ring_color=22d3ee&bg_color=00000000&rank_icon=github"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sreerajsanthosh&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Sreeraj's GitHub statistics"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreerajsanthosh&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000"/>
+    <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreerajsanthosh&layout=compact&theme=default&hide_border=true" alt="Most used languages"/>
+  </picture>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerajsanthosh&theme=transparent&hide_border=true&ring=38bdf8&fire=22d3ee&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub Streak Stats" width="52%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sreerajsanthosh&theme=transparent&hide_border=true&ring=38bdf8&fire=22d3ee&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&background=00000000"/>
+    <img src="https://streak-stats.demolab.com?user=sreerajsanthosh&theme=default&hide_border=true" alt="GitHub Streak Stats" width="55%"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sreerajsanthosh&bg_color=00000000&color=7dd3fc&line=22d3ee&point=2dd4bf&area=true&hide_border=true" alt="GitHub contribution activity"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sreerajsanthosh&bg_color=00000000&color=7dd3fc&line=22d3ee&point=2dd4bf&area=true&hide_border=true&area_color=0ea5e933"/>
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sreerajsanthosh&theme=github-light&hide_border=true&area=true" alt="GitHub contribution activity"/>
+  </picture>
 </div>
 
 ---
