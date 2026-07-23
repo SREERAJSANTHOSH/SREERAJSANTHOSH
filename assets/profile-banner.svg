@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Sreeraj S - Electronics and Communication Engineer</title>
-  <desc id="desc">A clean, minimal dark profile banner with name, title, and LinkedIn.</desc>
+  <desc id="desc">A clean, minimal dark profile banner.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -26,11 +26,8 @@
   </defs>
 
   <g clip-path="url(#clip)" font-family="'Inter','Segoe UI',system-ui,Arial,sans-serif">
-    <!-- Background -->
     <rect width="1200" height="280" fill="url(#bg)"/>
     <rect width="1200" height="280" fill="url(#grid)"/>
-
-    <!-- Subtle glow -->
     <circle cx="300" cy="140" r="300" fill="url(#glow)"/>
 
     <!-- Minimal circuit traces -->
@@ -43,38 +40,31 @@
     <circle cx="1060" cy="100" r="1.5" fill="#22d3ee" opacity="0.2"/>
     <circle cx="1060" cy="240" r="1.5" fill="#2dd4bf" opacity="0.2"/>
 
-    <!-- === Name & Title === -->
+    <!-- Name & Title -->
     <g transform="translate(80 55)">
-      <!-- Small label -->
       <circle cx="4" cy="4" r="3" fill="#22d3ee" opacity="0.7"/>
       <text x="18" y="8" fill="#64748b" font-size="11" font-weight="700" letter-spacing="3">ELECTRONICS &amp; COMMUNICATION ENGINEER</text>
 
-      <!-- Name -->
       <text x="0" y="82" fill="#f8fafc" font-size="60" font-weight="800" letter-spacing="-0.5">SREERAJ S</text>
 
-      <!-- Accent bar -->
       <rect x="2" y="98" width="60" height="3" rx="1.5" fill="url(#accent)"/>
 
-      <!-- Subtitle -->
       <text x="0" y="138" fill="#94a3b8" font-size="15" font-weight="500" letter-spacing="0.5">FPGA  ·  VHDL  ·  Embedded Systems  ·  PCB Design  ·  Python  ·  Networking</text>
 
-      <!-- LinkedIn -->
-      <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/" target="_blank">
-        <g transform="translate(0 162)">
-          <rect x="0" y="0" width="110" height="28" rx="6" fill="#0A66C2" fill-opacity="0.15" stroke="#0A66C2" stroke-opacity="0.3" stroke-width="0.8"/>
-          <!-- LinkedIn icon -->
-          <g transform="translate(10 4)" fill="#0A66C2">
-            <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM5 20H0V7h5v13zM10.98 7H6v13h5v-6.5c0-3.5 4.5-3.8 4.5 0V20H20V12c0-6-6.5-5.8-9-2.8V7z" transform="scale(1)"/>
-          </g>
-          <text x="36" y="18" fill="#38bdf8" font-size="11" font-weight="600" letter-spacing="0.5">LinkedIn</text>
-        </g>
-      </a>
+      <!-- LinkedIn badge -->
+      <g transform="translate(0 160)">
+        <rect x="0" y="0" width="120" height="30" rx="6" fill="#0A66C2" fill-opacity="0.15" stroke="#0A66C2" stroke-opacity="0.3" stroke-width="1"/>
+        <!-- LinkedIn "in" icon -->
+        <rect x="12" y="7" width="3.5" height="15" rx="0.5" fill="#0A66C2"/>
+        <circle cx="13.75" cy="9.5" r="2.2" fill="#0A66C2"/>
+        <path d="M20 14c0-2.5 1.2-4 3.2-4 2 0 2.8 1.5 2.8 4v8h3.5v-8.5c0-4-2-6.5-5.2-6.5-2.2 0-3.5 1.2-4.3 2.5V7h-3.5v15H20v-8z" fill="#0A66C2"/>
+        <text x="40" y="20" fill="#38bdf8" font-size="12" font-weight="600" letter-spacing="0.5">LinkedIn</text>
+      </g>
     </g>
 
     <!-- Bottom line -->
     <rect x="0" y="277" width="1200" height="3" fill="url(#accent)" opacity="0.6"/>
   </g>
 
-  <!-- Border -->
   <rect x="0.75" y="0.75" width="1198.5" height="278.5" rx="19.25" fill="none" stroke="#7dd3fc" stroke-opacity="0.06" stroke-width="1.5"/>
 </svg>
