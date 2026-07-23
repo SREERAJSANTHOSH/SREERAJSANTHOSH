@@ -10,73 +10,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I am an Electronics and Communication Engineering graduate working across **digital hardware, electronics verification, developer tooling, and network systems**. My experience includes a one-year graduate apprenticeship at **ISRO – Vikram Sarabhai Space Centre**, where I programmed FPGA cards in VHDL, built Python/PyQt tools, supported package testing, and verified PCB circuits with KiCad.
+Electronics &amp; Communication Engineer with hands-on experience in **FPGA development, embedded systems, PCB design**, and **network infrastructure**. Former Graduate Trainee at **ISRO – Vikram Sarabhai Space Centre**, where I worked on FPGA programming in VHDL, built internal tools with Python/PyQt, and verified PCB circuits with KiCad.
 
-> *My approach is practical: understand the system, test it carefully, document it clearly, and improve its reliability.*
-
-<div align="center">
-  <img src="./assets/signal-divider.svg" width="100%" alt="Animated circuit signal divider"/>
-</div>
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="60" align="center">🚀</td>
-    <td>
-      <strong>Graduate Trainee Engineer · ISRO – VSSC</strong><br/>
-      <sub><code>MAR 2024 – MAR 2025</code> · Thiruvananthapuram, Kerala</sub>
-      <br/><br/>
-      <ul>
-        <li>Programmed FPGA cards using <strong>VHDL</strong></li>
-        <li>Developed internal GUI tools with <strong>Python and PyQt</strong></li>
-        <li>Supported package testing and technical documentation</li>
-        <li>Contributed to circuit research, testing, performance, and reliability work</li>
-        <li>Verified PCB circuits using <strong>KiCad EDA</strong></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center">🌐</td>
-    <td>
-      <strong>Junior Network Engineer · Soften Technologies</strong><br/>
-      <sub><code>DEC 2019 – MAY 2020</code> · Ernakulam, Kerala</sub>
-      <br/><br/>
-      <ul>
-        <li>Worked on network troubleshooting, monitoring, and implementation</li>
-        <li>Supported network-device configuration and operational reliability</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center">📡</td>
-    <td>
-      <strong>In-plant Trainee · Doordarshan &amp; All India Radio</strong><br/>
-      <sub><code>JUL 2018 – AUG 2018</code> · Thiruvananthapuram, Kerala</sub>
-      <br/><br/>
-      <ul>
-        <li>Observed live studio systems and transmitter equipment in operation</li>
-        <li>Gained practical exposure to broadcast electronics infrastructure</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Currently open to opportunities in **digital hardware, embedded systems**, and **electronics verification**.
 
 <div align="center">
-  <img src="./assets/signal-divider.svg" width="100%" alt="Animated circuit signal divider"/>
+  <img src="./assets/signal-divider.svg" width="100%" alt="Section divider"/>
 </div>
 
-## 🛠️ Engineering Toolkit
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Digital Hardware** | `VHDL` `FPGA programming` `VLSI design` `Libero SoC` |
-| **Embedded Systems** | `C` `Arduino` `FreeRTOS` `hardware integration` |
-| **PCB &amp; Simulation** | `KiCad EDA` `Proteus` `OrCAD Capture` `EasyEDA` `circuit testing` |
-| **Software Tooling** | `Python` `PyQt` `Git` `GitHub` `MATLAB` |
-| **Networking** | `troubleshooting` `monitoring` `implementation` `device configuration` |
+## Tech Stack
 
 <p align="center">
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" height="44" alt="C"/></a>&nbsp;
@@ -90,102 +34,50 @@ I am an Electronics and Communication Engineering graduate working across **digi
   <a href="https://learn.microsoft.com/en-us/credentials/" target="_blank" rel="noreferrer" title="Microsoft"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="44" height="44" alt="Microsoft Windows"/></a>
 </p>
 
-<p align="center">
-  <a href="https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/fpga/libero-software-later-versions" target="_blank" rel="noreferrer" title="Libero SoC"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Microchip_logo.svg" width="44" height="44" alt="Libero SoC by Microchip"/></a>&nbsp;
-  <a href="https://www.freertos.org/" target="_blank" rel="noreferrer" title="FreeRTOS"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" height="44" alt="FreeRTOS"/></a>&nbsp;
-  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer" title="KiCad"><img src="https://cdn.simpleicons.org/kicad" width="44" height="44" alt="KiCad"/></a>&nbsp;
-  <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer" title="Proteus Design Suite"><img src="https://cdn.simpleicons.org/proteus" width="44" height="44" alt="Proteus Design Suite"/></a>&nbsp;
-  <a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" target="_blank" rel="noreferrer" title="OrCAD X"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" height="44" alt="OrCAD X"/></a>&nbsp;
-  <a href="https://easyeda.com/" target="_blank" rel="noreferrer" title="EasyEDA"><img src="https://cdn.simpleicons.org/easyeda" width="44" height="44" alt="EasyEDA"/></a>&nbsp;
-  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html" target="_blank" rel="noreferrer" title="Cisco CCNA"><img src="https://cdn.simpleicons.org/cisco" width="44" height="44" alt="Cisco CCNA"/></a>
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Digital Hardware** | `VHDL` `FPGA` `VLSI design` `Libero SoC` |
+| **Embedded Systems** | `C` `Arduino` `FreeRTOS` `hardware integration` |
+| **PCB &amp; Simulation** | `KiCad` `Proteus` `OrCAD` `EasyEDA` |
+| **Software Tooling** | `Python` `PyQt` `Git` `MATLAB` |
+| **Networking** | `Cisco CCNA` `troubleshooting` `device configuration` |
 
 <div align="center">
-  <img src="./assets/signal-divider.svg" width="100%" alt="Animated circuit signal divider"/>
+  <img src="./assets/signal-divider.svg" width="100%" alt="Section divider"/>
 </div>
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SREERAJSANTHOSH/EMG_Controlled_Robotic_Arm">🦾 EMG-Controlled Robotic Arm</a></h3>
       <p><b>B.Tech Capstone Project</b></p>
-      <p>An assistive robotics project exploring EMG-based control for an artificial arm designed for amputees. Bridges biomedical signal processing with embedded control systems.</p>
+      <p>Assistive robotics system using EMG signals to control an artificial arm for amputees. Combines biomedical signal processing with embedded control.</p>
       <p>
-        <img src="https://img.shields.io/badge/EMG-0b1220?style=flat-square&logoColor=38bdf8" alt="EMG"/>
-        <img src="https://img.shields.io/badge/Robotics-0b1220?style=flat-square&logoColor=22d3ee" alt="Robotics"/>
-        <img src="https://img.shields.io/badge/Embedded-0b1220?style=flat-square&logoColor=2dd4bf" alt="Embedded"/>
         <img src="https://img.shields.io/badge/C-0b1220?style=flat-square&logo=c&logoColor=38bdf8" alt="C"/>
+        <img src="https://img.shields.io/badge/EMG-0b1220?style=flat-square" alt="EMG"/>
+        <img src="https://img.shields.io/badge/Embedded-0b1220?style=flat-square" alt="Embedded"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SREERAJSANTHOSH/SmartDustbin_With_IOT_Notification">🗑️ Smart Dustbin with IoT</a></h3>
       <p><b>IoT Project</b></p>
-      <p>An IoT-enabled smart dustbin system with automated notifications. Demonstrates hardware–software integration and real-world sensor-based automation.</p>
+      <p>IoT-enabled smart waste management system with automated fill-level notifications. Real-world sensor integration and hardware–software coordination.</p>
       <p>
-        <img src="https://img.shields.io/badge/IoT-0b1220?style=flat-square&logoColor=38bdf8" alt="IoT"/>
-        <img src="https://img.shields.io/badge/Arduino-0b1220?style=flat-square&logo=arduino&logoColor=22d3ee" alt="Arduino"/>
-        <img src="https://img.shields.io/badge/Sensors-0b1220?style=flat-square&logoColor=2dd4bf" alt="Sensors"/>
         <img src="https://img.shields.io/badge/C-0b1220?style=flat-square&logo=c&logoColor=38bdf8" alt="C"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 Electronics Maintenance &amp; Repair</h3>
-      <p><b>Diploma Final Project</b></p>
-      <p>A practical project centered on diagnosing, maintaining, and repairing electronic equipment with systematic troubleshooting methodologies.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Diagnostics-0b1220?style=flat-square&logoColor=38bdf8" alt="Diagnostics"/>
-        <img src="https://img.shields.io/badge/Testing-0b1220?style=flat-square&logoColor=22d3ee" alt="Testing"/>
-        <img src="https://img.shields.io/badge/Electronics-0b1220?style=flat-square&logoColor=2dd4bf" alt="Electronics"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 More Coming Soon</h3>
-      <p><b>Active Development</b></p>
-      <p>Working on new projects in FPGA development, embedded systems, and engineering automation tools. Stay tuned!</p>
-      <p>
-        <img src="https://img.shields.io/badge/FPGA-0b1220?style=flat-square&logoColor=38bdf8" alt="FPGA"/>
-        <img src="https://img.shields.io/badge/VHDL-0b1220?style=flat-square&logoColor=22d3ee" alt="VHDL"/>
-        <img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python"/>
+        <img src="https://img.shields.io/badge/Arduino-0b1220?style=flat-square&logo=arduino&logoColor=22d3ee" alt="Arduino"/>
+        <img src="https://img.shields.io/badge/IoT-0b1220?style=flat-square" alt="IoT"/>
       </p>
     </td>
   </tr>
 </table>
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td width="60" align="center">🏛️</td>
-    <td>
-      <strong>Bachelor of Technology · Electronics and Communication Engineering</strong><br/>
-      College of Engineering, Adoor · First Class · <code>2020 – 2023</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center">📘</td>
-    <td>
-      <strong>Diploma · Electronics and Communication Engineering</strong><br/>
-      NSS Polytechnic College, Pandalam · First Class with Distinction · <code>2016 – 2019</code>
-    </td>
-  </tr>
-</table>
-
-## 📜 Training &amp; Credentials
-
-- 🏅 NATS apprenticeship certificate · Board of Apprenticeship Training (BOAT)
-- 🌐 Training programs in **CCNA** and **MCSE**
-- 📚 NPTEL · Developing Soft Skills and Personality
-- 🗣️ Languages: **English** and **Malayalam**
 
 <div align="center">
-  <img src="./assets/signal-divider.svg" width="100%" alt="Animated circuit signal divider"/>
+  <img src="./assets/signal-divider.svg" width="100%" alt="Section divider"/>
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -225,6 +117,5 @@ I am an Electronics and Communication Engineering graduate working across **digi
 </p>
 
 <p align="center">
-  <sub>Interested in <b>FPGA development</b>, <b>embedded systems</b>, <b>electronics verification</b>, <b>network infrastructure</b>, and <b>engineering tools</b>.</sub><br/>
-  <sub>📫 Reach me at <a href="mailto:sree98mdy@gmail.com">sree98mdy@gmail.com</a> · <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/">LinkedIn</a></sub>
+  <sub>📫 <a href="mailto:sree98mdy@gmail.com">sree98mdy@gmail.com</a> · <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/">LinkedIn</a> · Open to opportunities in FPGA, embedded systems, and electronics verification.</sub>
 </p>
