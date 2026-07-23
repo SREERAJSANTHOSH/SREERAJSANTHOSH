@@ -8,10 +8,6 @@
   <a href="https://github.com/SREERAJSANTHOSH"><img src="https://img.shields.io/badge/GITHUB-0b1220?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=35&lines=Electronics+%26+Communication+Engineer;FPGA+Developer+%7C+VHDL+%7C+Embedded+Systems;Ex-ISRO+VSSC+%C2%B7+Graduate+Trainee+Engineer;Open+to+Opportunities+in+Hardware+%26+Embedded" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me

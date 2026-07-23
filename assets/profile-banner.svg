@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Sreeraj S - Electronics and Communication Engineer</title>
-  <desc id="desc">A premium dark engineering profile banner with animated circuit traces, scanning line, and pulsing nodes.</desc>
+  <desc id="desc">A clean, minimal dark engineering profile banner.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -13,36 +13,23 @@
       <stop offset="0.45" stop-color="#22d3ee"/>
       <stop offset="1" stop-color="#2dd4bf"/>
     </linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
-    </linearGradient>
     <radialGradient id="aura">
-      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.18"/>
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.14"/>
       <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="aura2">
-      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.12"/>
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0V40H0" fill="none" stroke="#38bdf8" stroke-opacity="0.04" stroke-width="0.5"/>
+      <path d="M40 0V40H0" fill="none" stroke="#38bdf8" stroke-opacity="0.03" stroke-width="0.5"/>
     </pattern>
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="0.8" fill="#7dd3fc" opacity="0.08"/>
+      <circle cx="2" cy="2" r="0.7" fill="#7dd3fc" opacity="0.06"/>
     </pattern>
     <clipPath id="clip">
       <rect width="1200" height="340" rx="20"/>
     </clipPath>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow-sm">
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
 
   <g clip-path="url(#clip)" font-family="'Inter','Segoe UI',system-ui,Arial,sans-serif">
@@ -51,77 +38,47 @@
     <rect width="1200" height="340" fill="url(#grid)"/>
     <rect x="660" width="540" height="340" fill="url(#dots)"/>
 
-    <!-- Aura glows -->
-    <circle cx="200" cy="170" r="320" fill="url(#aura2)" opacity="0.5"/>
+    <!-- Subtle aura glows -->
+    <circle cx="200" cy="170" r="320" fill="url(#aura2)"/>
     <circle cx="1020" cy="170" r="280" fill="url(#aura)"/>
 
-    <!-- Animated scanning line -->
-    <rect x="0" y="0" width="1200" height="60" fill="url(#scan)">
-      <animateTransform attributeName="transform" type="translate" values="0 -60;0 400" dur="5s" repeatCount="indefinite"/>
-    </rect>
-
-    <!-- Circuit traces - left side decorative -->
-    <g stroke="#38bdf8" stroke-opacity="0.1" fill="none" stroke-width="1">
+    <!-- Static circuit traces — decorative, subtle -->
+    <g stroke="#38bdf8" stroke-opacity="0.07" fill="none" stroke-width="0.8">
       <path d="M30 60 L30 120 L60 120"/>
       <path d="M30 120 L30 200 L80 200 L80 260"/>
-      <path d="M60 120 L60 80 L120 80"/>
       <path d="M1160 80 L1160 130 L1120 130 L1120 200"/>
       <path d="M1120 200 L1160 200 L1160 280"/>
-      <path d="M1080 260 L1120 260"/>
     </g>
 
-    <!-- Pulsing circuit nodes -->
-    <circle cx="30" cy="60" r="3" fill="#38bdf8" opacity="0.6">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="60" cy="120" r="2.5" fill="#22d3ee" opacity="0.5">
-      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="80" cy="260" r="2.5" fill="#2dd4bf" opacity="0.5">
-      <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1160" cy="80" r="3" fill="#38bdf8" opacity="0.5">
-      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1120" cy="200" r="2.5" fill="#22d3ee" opacity="0.5">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1080" cy="260" r="2.5" fill="#2dd4bf" opacity="0.4">
-      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="5s" repeatCount="indefinite"/>
-    </circle>
+    <!-- Static circuit nodes -->
+    <circle cx="30" cy="60" r="2.5" fill="#38bdf8" opacity="0.35"/>
+    <circle cx="60" cy="120" r="2" fill="#22d3ee" opacity="0.3"/>
+    <circle cx="80" cy="260" r="2" fill="#2dd4bf" opacity="0.3"/>
+    <circle cx="1160" cy="80" r="2.5" fill="#38bdf8" opacity="0.3"/>
+    <circle cx="1120" cy="200" r="2" fill="#22d3ee" opacity="0.3"/>
 
-    <!-- Vertical separator line -->
-    <path d="M660 0V340" stroke="#7dd3fc" stroke-opacity="0.06"/>
+    <!-- Vertical separator -->
+    <path d="M660 0V340" stroke="#7dd3fc" stroke-opacity="0.05"/>
 
-    <!-- Horizontal guide lines right panel -->
-    <path d="M690 68H1160" stroke="#7dd3fc" stroke-opacity="0.06" stroke-dasharray="2 10"/>
-    <path d="M690 272H1160" stroke="#7dd3fc" stroke-opacity="0.06" stroke-dasharray="2 10"/>
+    <!-- Guide lines right panel -->
+    <path d="M690 68H1160" stroke="#7dd3fc" stroke-opacity="0.05" stroke-dasharray="2 10"/>
+    <path d="M690 272H1160" stroke="#7dd3fc" stroke-opacity="0.05" stroke-dasharray="2 10"/>
 
-    <!-- === LEFT PANEL: Name & Title === -->
+    <!-- === LEFT: Name & Title === -->
     <g transform="translate(80 48)">
-      <!-- Category label -->
-      <circle cx="4" cy="4" r="4" fill="#22d3ee">
-        <animate attributeName="r" values="3;4.5;3" dur="3s" repeatCount="indefinite"/>
-      </circle>
+      <circle cx="4" cy="4" r="3.5" fill="#22d3ee"/>
       <text x="22" y="9" fill="#7dd3fc" font-size="11" font-weight="700" letter-spacing="3.5">ELECTRONICS &amp; DIGITAL SYSTEMS</text>
 
-      <!-- Name -->
       <text x="0" y="96" fill="#f8fafc" font-size="62" font-weight="800" letter-spacing="-0.5">SREERAJ S</text>
 
-      <!-- Gradient accent bar -->
-      <rect x="2" y="114" width="70" height="3.5" rx="1.75" fill="url(#edge)">
-        <animate attributeName="width" values="60;80;60" dur="4s" repeatCount="indefinite"/>
-      </rect>
+      <rect x="2" y="114" width="70" height="3.5" rx="1.75" fill="url(#edge)"/>
 
-      <!-- Title -->
       <text x="0" y="158" fill="#cbd5e1" font-size="22" font-weight="450">Electronics &amp; Communication Engineer</text>
 
-      <!-- Skills tags -->
       <text x="0" y="196" fill="#94a3b8" font-size="13" font-weight="600" letter-spacing="1.5">FPGA &amp; VHDL  ·  PYTHON &amp; PyQt  ·  PCB DESIGN  ·  NETWORKS</text>
 
-      <!-- Experience badge -->
       <g transform="translate(0 228)">
-        <rect x="0" y="-14" width="96" height="22" rx="4" fill="#0ea5e9" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="0.8"/>
+        <rect x="0" y="-14" width="96" height="22" rx="4" fill="#0ea5e9" fill-opacity="0.1" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="0.8"/>
         <text x="48" y="2" fill="#67e8f9" font-size="11" font-weight="700" letter-spacing="1" text-anchor="middle">ISRO-VSSC</text>
 
         <circle cx="116" cy="-3" r="1.5" fill="#334155"/>
@@ -132,29 +89,26 @@
       </g>
     </g>
 
-    <!-- === RIGHT PANEL: Technical Focus === -->
+    <!-- === RIGHT: Technical Focus === -->
     <g transform="translate(694 50)">
       <text x="0" y="0" fill="#64748b" font-size="10" font-weight="700" letter-spacing="3">TECHNICAL FOCUS</text>
 
-      <!-- Focus 01 -->
       <g transform="translate(0 48)">
         <text x="0" y="0" fill="#38bdf8" font-size="11" font-weight="800">01</text>
         <text x="42" y="0" fill="#e2e8f0" font-size="16" font-weight="640">Digital Hardware Design</text>
         <text x="42" y="22" fill="#64748b" font-size="11.5">FPGA programming · VHDL · VLSI design · Libero SoC</text>
       </g>
 
-      <line x1="0" y1="90" x2="440" y2="90" stroke="#7dd3fc" stroke-opacity="0.08"/>
+      <line x1="0" y1="90" x2="440" y2="90" stroke="#7dd3fc" stroke-opacity="0.07"/>
 
-      <!-- Focus 02 -->
       <g transform="translate(0 124)">
         <text x="0" y="0" fill="#22d3ee" font-size="11" font-weight="800">02</text>
         <text x="42" y="0" fill="#e2e8f0" font-size="16" font-weight="640">Embedded &amp; PCB Systems</text>
         <text x="42" y="22" fill="#64748b" font-size="11.5">KiCad · FreeRTOS · Arduino · circuit verification</text>
       </g>
 
-      <line x1="0" y1="166" x2="440" y2="166" stroke="#7dd3fc" stroke-opacity="0.08"/>
+      <line x1="0" y1="166" x2="440" y2="166" stroke="#7dd3fc" stroke-opacity="0.07"/>
 
-      <!-- Focus 03 -->
       <g transform="translate(0 200)">
         <text x="0" y="0" fill="#2dd4bf" font-size="11" font-weight="800">03</text>
         <text x="42" y="0" fill="#e2e8f0" font-size="16" font-weight="640">Software &amp; Network Tools</text>
@@ -163,9 +117,9 @@
     </g>
 
     <!-- Bottom gradient line -->
-    <rect x="0" y="337" width="1200" height="3" fill="url(#edge)" opacity="0.8"/>
+    <rect x="0" y="337" width="1200" height="3" fill="url(#edge)" opacity="0.7"/>
   </g>
 
   <!-- Border -->
-  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="19.25" fill="none" stroke="#7dd3fc" stroke-opacity="0.1" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="19.25" fill="none" stroke="#7dd3fc" stroke-opacity="0.08" stroke-width="1.5"/>
 </svg>
