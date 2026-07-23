@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Sreeraj S - Electronics and Communication Engineer</title>
-  <desc id="desc">A clean, minimal dark engineering profile banner.</desc>
+  <desc id="desc">A clean, minimal dark profile banner with name, title, and LinkedIn.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -8,118 +8,73 @@
       <stop offset="0.4" stop-color="#0a1628"/>
       <stop offset="1" stop-color="#0f172a"/>
     </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="0.45" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
       <stop offset="1" stop-color="#2dd4bf"/>
     </linearGradient>
-    <radialGradient id="aura">
-      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.14"/>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.1"/>
       <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="aura2">
-      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
-    </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0V40H0" fill="none" stroke="#38bdf8" stroke-opacity="0.03" stroke-width="0.5"/>
-    </pattern>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="0.7" fill="#7dd3fc" opacity="0.06"/>
+      <path d="M40 0V40H0" fill="none" stroke="#38bdf8" stroke-opacity="0.025" stroke-width="0.5"/>
     </pattern>
     <clipPath id="clip">
-      <rect width="1200" height="340" rx="20"/>
+      <rect width="1200" height="280" rx="20"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#clip)" font-family="'Inter','Segoe UI',system-ui,Arial,sans-serif">
     <!-- Background -->
-    <rect width="1200" height="340" fill="url(#bg)"/>
-    <rect width="1200" height="340" fill="url(#grid)"/>
-    <rect x="660" width="540" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#grid)"/>
 
-    <!-- Subtle aura glows -->
-    <circle cx="200" cy="170" r="320" fill="url(#aura2)"/>
-    <circle cx="1020" cy="170" r="280" fill="url(#aura)"/>
+    <!-- Subtle glow -->
+    <circle cx="300" cy="140" r="300" fill="url(#glow)"/>
 
-    <!-- Static circuit traces — decorative, subtle -->
-    <g stroke="#38bdf8" stroke-opacity="0.07" fill="none" stroke-width="0.8">
-      <path d="M30 60 L30 120 L60 120"/>
-      <path d="M30 120 L30 200 L80 200 L80 260"/>
-      <path d="M1160 80 L1160 130 L1120 130 L1120 200"/>
-      <path d="M1120 200 L1160 200 L1160 280"/>
+    <!-- Minimal circuit traces -->
+    <g stroke="#38bdf8" stroke-opacity="0.05" fill="none" stroke-width="0.8">
+      <path d="M1100 40 L1100 100 L1060 100"/>
+      <path d="M1100 180 L1100 240 L1060 240"/>
+      <path d="M1060 100 L1060 240"/>
+    </g>
+    <circle cx="1100" cy="40" r="2" fill="#38bdf8" opacity="0.2"/>
+    <circle cx="1060" cy="100" r="1.5" fill="#22d3ee" opacity="0.2"/>
+    <circle cx="1060" cy="240" r="1.5" fill="#2dd4bf" opacity="0.2"/>
+
+    <!-- === Name & Title === -->
+    <g transform="translate(80 55)">
+      <!-- Small label -->
+      <circle cx="4" cy="4" r="3" fill="#22d3ee" opacity="0.7"/>
+      <text x="18" y="8" fill="#64748b" font-size="11" font-weight="700" letter-spacing="3">ELECTRONICS &amp; COMMUNICATION ENGINEER</text>
+
+      <!-- Name -->
+      <text x="0" y="82" fill="#f8fafc" font-size="60" font-weight="800" letter-spacing="-0.5">SREERAJ S</text>
+
+      <!-- Accent bar -->
+      <rect x="2" y="98" width="60" height="3" rx="1.5" fill="url(#accent)"/>
+
+      <!-- Subtitle -->
+      <text x="0" y="138" fill="#94a3b8" font-size="15" font-weight="500" letter-spacing="0.5">FPGA  ·  VHDL  ·  Embedded Systems  ·  PCB Design  ·  Python  ·  Networking</text>
+
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/" target="_blank">
+        <g transform="translate(0 162)">
+          <rect x="0" y="0" width="110" height="28" rx="6" fill="#0A66C2" fill-opacity="0.15" stroke="#0A66C2" stroke-opacity="0.3" stroke-width="0.8"/>
+          <!-- LinkedIn icon -->
+          <g transform="translate(10 4)" fill="#0A66C2">
+            <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM5 20H0V7h5v13zM10.98 7H6v13h5v-6.5c0-3.5 4.5-3.8 4.5 0V20H20V12c0-6-6.5-5.8-9-2.8V7z" transform="scale(1)"/>
+          </g>
+          <text x="36" y="18" fill="#38bdf8" font-size="11" font-weight="600" letter-spacing="0.5">LinkedIn</text>
+        </g>
+      </a>
     </g>
 
-    <!-- Static circuit nodes -->
-    <circle cx="30" cy="60" r="2.5" fill="#38bdf8" opacity="0.35"/>
-    <circle cx="60" cy="120" r="2" fill="#22d3ee" opacity="0.3"/>
-    <circle cx="80" cy="260" r="2" fill="#2dd4bf" opacity="0.3"/>
-    <circle cx="1160" cy="80" r="2.5" fill="#38bdf8" opacity="0.3"/>
-    <circle cx="1120" cy="200" r="2" fill="#22d3ee" opacity="0.3"/>
-
-    <!-- Vertical separator -->
-    <path d="M660 0V340" stroke="#7dd3fc" stroke-opacity="0.05"/>
-
-    <!-- Guide lines right panel -->
-    <path d="M690 68H1160" stroke="#7dd3fc" stroke-opacity="0.05" stroke-dasharray="2 10"/>
-    <path d="M690 272H1160" stroke="#7dd3fc" stroke-opacity="0.05" stroke-dasharray="2 10"/>
-
-    <!-- === LEFT: Name & Title === -->
-    <g transform="translate(80 48)">
-      <circle cx="4" cy="4" r="3.5" fill="#22d3ee"/>
-      <text x="22" y="9" fill="#7dd3fc" font-size="11" font-weight="700" letter-spacing="3.5">ELECTRONICS &amp; DIGITAL SYSTEMS</text>
-
-      <text x="0" y="96" fill="#f8fafc" font-size="62" font-weight="800" letter-spacing="-0.5">SREERAJ S</text>
-
-      <rect x="2" y="114" width="70" height="3.5" rx="1.75" fill="url(#edge)"/>
-
-      <text x="0" y="158" fill="#cbd5e1" font-size="22" font-weight="450">Electronics &amp; Communication Engineer</text>
-
-      <text x="0" y="196" fill="#94a3b8" font-size="13" font-weight="600" letter-spacing="1.5">FPGA &amp; VHDL  ·  PYTHON &amp; PyQt  ·  PCB DESIGN  ·  NETWORKS</text>
-
-      <g transform="translate(0 228)">
-        <rect x="0" y="-14" width="96" height="22" rx="4" fill="#0ea5e9" fill-opacity="0.1" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="0.8"/>
-        <text x="48" y="2" fill="#67e8f9" font-size="11" font-weight="700" letter-spacing="1" text-anchor="middle">ISRO-VSSC</text>
-
-        <circle cx="116" cy="-3" r="1.5" fill="#334155"/>
-        <text x="130" y="2" fill="#64748b" font-size="11" font-weight="600" letter-spacing="1">2024 – 2025</text>
-
-        <circle cx="228" cy="-3" r="1.5" fill="#334155"/>
-        <text x="242" y="2" fill="#64748b" font-size="11" font-weight="600" letter-spacing="1">KERALA, INDIA</text>
-      </g>
-    </g>
-
-    <!-- === RIGHT: Technical Focus === -->
-    <g transform="translate(694 50)">
-      <text x="0" y="0" fill="#64748b" font-size="10" font-weight="700" letter-spacing="3">TECHNICAL FOCUS</text>
-
-      <g transform="translate(0 48)">
-        <text x="0" y="0" fill="#38bdf8" font-size="11" font-weight="800">01</text>
-        <text x="42" y="0" fill="#e2e8f0" font-size="16" font-weight="640">Digital Hardware Design</text>
-        <text x="42" y="22" fill="#64748b" font-size="11.5">FPGA programming · VHDL · VLSI design · Libero SoC</text>
-      </g>
-
-      <line x1="0" y1="90" x2="440" y2="90" stroke="#7dd3fc" stroke-opacity="0.07"/>
-
-      <g transform="translate(0 124)">
-        <text x="0" y="0" fill="#22d3ee" font-size="11" font-weight="800">02</text>
-        <text x="42" y="0" fill="#e2e8f0" font-size="16" font-weight="640">Embedded &amp; PCB Systems</text>
-        <text x="42" y="22" fill="#64748b" font-size="11.5">KiCad · FreeRTOS · Arduino · circuit verification</text>
-      </g>
-
-      <line x1="0" y1="166" x2="440" y2="166" stroke="#7dd3fc" stroke-opacity="0.07"/>
-
-      <g transform="translate(0 200)">
-        <text x="0" y="0" fill="#2dd4bf" font-size="11" font-weight="800">03</text>
-        <text x="42" y="0" fill="#e2e8f0" font-size="16" font-weight="640">Software &amp; Network Tools</text>
-        <text x="42" y="22" fill="#64748b" font-size="11.5">Python · PyQt · Git · network infrastructure</text>
-      </g>
-    </g>
-
-    <!-- Bottom gradient line -->
-    <rect x="0" y="337" width="1200" height="3" fill="url(#edge)" opacity="0.7"/>
+    <!-- Bottom line -->
+    <rect x="0" y="277" width="1200" height="3" fill="url(#accent)" opacity="0.6"/>
   </g>
 
   <!-- Border -->
-  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="19.25" fill="none" stroke="#7dd3fc" stroke-opacity="0.08" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="278.5" rx="19.25" fill="none" stroke="#7dd3fc" stroke-opacity="0.06" stroke-width="1.5"/>
 </svg>

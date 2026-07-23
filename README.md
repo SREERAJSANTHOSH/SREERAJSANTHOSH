@@ -4,17 +4,14 @@
 
 <p align="center">
   <a href="mailto:sree98mdy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b1220?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/"><img src="https://img.shields.io/badge/LINKEDIN-0b1220?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/SREERAJSANTHOSH"><img src="https://img.shields.io/badge/GITHUB-0b1220?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/"><img src="https://img.shields.io/badge/LINKEDIN-0b1220?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
 </p>
 
 ---
 
 ## About
 
-Electronics &amp; Communication Engineer with hands-on experience in **FPGA development, embedded systems, PCB design**, and **network infrastructure**. Former Graduate Trainee at **ISRO – Vikram Sarabhai Space Centre**, where I worked on FPGA programming in VHDL, built internal tools with Python/PyQt, and verified PCB circuits with KiCad.
-
-Currently open to opportunities in **digital hardware, embedded systems**, and **electronics verification**.
+Electronics &amp; Communication Engineer with hands-on experience in **FPGA development, embedded systems, PCB design**, and **network infrastructure**. Former Graduate Trainee at **ISRO – Vikram Sarabhai Space Centre**. Currently open to opportunities in digital hardware, embedded systems, and electronics verification.
 
 <div align="center">
   <img src="./assets/signal-divider.svg" width="100%" alt="Section divider"/>
@@ -22,25 +19,19 @@ Currently open to opportunities in **digital hardware, embedded systems**, and *
 
 ## Tech Stack
 
-<p align="center">
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" height="44" alt="C"/></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" height="44" alt="Python"/></a>&nbsp;
-  <a href="https://www.riverbankcomputing.com/software/pyqt/" target="_blank" rel="noreferrer" title="PyQt"><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="44" height="44" alt="PyQt"/></a>&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="44" height="44" alt="Arduino"/></a>&nbsp;
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" alt="Git"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub"/></a>&nbsp;
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" title="MATLAB"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="44" height="44" alt="MATLAB"/></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/credentials/" target="_blank" rel="noreferrer" title="Microsoft"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="44" height="44" alt="Microsoft Windows"/></a>
-</p>
+<div align="center">
+  <img src="./assets/toolkit-board.svg" width="580" alt="Engineering toolkit — C, Python, PyQt, Arduino, Linux, Git, GitHub, MATLAB, Windows, VHDL, FPGA, Libero SoC, FreeRTOS, KiCad, Proteus, OrCAD, EasyEDA, Cisco"/>
+</div>
+
+<br/>
 
 | Domain | Technologies |
 | :--- | :--- |
 | **Digital Hardware** | `VHDL` `FPGA` `VLSI design` `Libero SoC` |
 | **Embedded Systems** | `C` `Arduino` `FreeRTOS` `hardware integration` |
-| **PCB &amp; Simulation** | `KiCad` `Proteus` `OrCAD` `EasyEDA` |
-| **Software Tooling** | `Python` `PyQt` `Git` `MATLAB` |
-| **Networking** | `Cisco CCNA` `troubleshooting` `device configuration` |
+| **PCB &amp; Simulation** | `KiCad` `Proteus` `OrCAD` `EasyEDA` `circuit testing` |
+| **Software Tooling** | `Python` `PyQt` `Git` `GitHub` `MATLAB` |
+| **Networking** | `Cisco CCNA` `MCSE` `troubleshooting` `device configuration` |
 
 <div align="center">
   <img src="./assets/signal-divider.svg" width="100%" alt="Section divider"/>
@@ -117,5 +108,5 @@ Currently open to opportunities in **digital hardware, embedded systems**, and *
 </p>
 
 <p align="center">
-  <sub>📫 <a href="mailto:sree98mdy@gmail.com">sree98mdy@gmail.com</a> · <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/">LinkedIn</a> · Open to opportunities in FPGA, embedded systems, and electronics verification.</sub>
+  <sub>📫 <a href="mailto:sree98mdy@gmail.com">sree98mdy@gmail.com</a> · <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/">LinkedIn</a></sub>
 </p>
