@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:sree98mdy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b1220?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/"><img src="https://img.shields.io/badge/LINKEDIN-0b1220?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
