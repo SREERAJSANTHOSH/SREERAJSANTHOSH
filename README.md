@@ -85,11 +85,3 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreerajsanthosh&style=for-the-badge&color=0e4429&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <sub>📫 <a href="mailto:sree98mdy@gmail.com">sree98mdy@gmail.com</a> · <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/">LinkedIn</a></sub>
-</p>
