@@ -7,11 +7,17 @@
   <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+<br/>
+
 ---
 
 ## About
 
 Electronics &amp; Communication Engineer with hands-on experience in **FPGA development, embedded systems, PCB design**, and **network infrastructure**. Former Graduate Trainee at **ISRO – Vikram Sarabhai Space Centre**. Currently open to opportunities in digital hardware, embedded systems, and electronics verification.
+
+<br/>
+
+---
 
 ## Tech Stack
 
@@ -39,6 +45,8 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
   <a href="https://en.wikipedia.org/wiki/Field-programmable_gate_array" title="FPGA"><img src="https://img.shields.io/badge/FPGA-063B4C?style=for-the-badge" alt="FPGA"/></a>
 </p>
 
+<br/>
+
 | Domain | Technologies |
 | :--- | :--- |
 | **Digital Hardware** | `VHDL` `FPGA` `VLSI design` `Libero SoC` |
@@ -47,7 +55,13 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
 | **Software Tooling** | `Python` `PyQt` `Git` `GitHub` `MATLAB` |
 | **Networking** | `Cisco CCNA` `MCSE` `troubleshooting` `device configuration` |
 
+<br/>
+
+---
+
 ## Featured Projects
+
+<br/>
 
 <table>
   <tr>
@@ -74,7 +88,13 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
   </tr>
 </table>
 
+<br/>
+
+---
+
 ## GitHub Analytics
+
+<br/>
 
 <div align="center">
 
@@ -106,13 +126,3 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
     <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sreerajsanthosh&theme=github-light&hide_border=true&area=true" alt="GitHub contribution activity"/>
   </picture>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreerajsanthosh&style=for-the-badge&color=0e4429&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <sub>📫 <a href="mailto:sree98mdy@gmail.com">sree98mdy@gmail.com</a> · <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/">LinkedIn</a></sub>
-</p>
