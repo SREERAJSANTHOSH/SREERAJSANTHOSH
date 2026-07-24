@@ -15,11 +15,29 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
 
 ## Tech Stack
 
-<div align="center">
-  <img src="./assets/toolkit-board.svg" width="580" alt="Engineering toolkit — C, Python, PyQt, Arduino, Linux, Git, GitHub, MATLAB, Windows, VHDL, FPGA, Libero SoC, FreeRTOS, KiCad, Proteus, OrCAD, EasyEDA, Cisco"/>
-</div>
+<p align="center">
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="42" height="42" alt="C"/></a>&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" height="42" alt="Python"/></a>&nbsp;
+  <a href="https://www.riverbankcomputing.com/software/pyqt/" title="PyQt"><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="42" height="42" alt="PyQt"/></a>&nbsp;
+  <a href="https://www.arduino.cc/" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="42" height="42" alt="Arduino"/></a>&nbsp;
+  <a href="https://www.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="42" height="42" alt="Linux"/></a>&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="42" height="42" alt="Git"/></a>&nbsp;
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" height="42" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="42" height="42" alt="MATLAB"/></a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/" title="Windows / MCSE"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="42" height="42" alt="Windows"/></a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/fpga/libero-software-later-versions" title="Libero SoC"><img src="https://img.shields.io/badge/Libero_SoC-EE2E24?style=for-the-badge&logo=microchip&logoColor=white" alt="Libero SoC"/></a>&nbsp;
+  <a href="https://www.freertos.org/" title="FreeRTOS"><img src="https://img.shields.io/badge/FreeRTOS-1D8348?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/></a>&nbsp;
+  <a href="https://www.kicad.org/" title="KiCad"><img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/></a>&nbsp;
+  <a href="https://www.labcenter.com/" title="Proteus"><img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus"/></a>&nbsp;
+  <a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" title="OrCAD"><img src="https://img.shields.io/badge/OrCAD-CC0000?style=for-the-badge" alt="OrCAD"/></a>&nbsp;
+  <a href="https://easyeda.com/" title="EasyEDA"><img src="https://img.shields.io/badge/EasyEDA-1765F5?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA"/></a>&nbsp;
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html" title="Cisco CCNA"><img src="https://img.shields.io/badge/CCNA-1BA0D8?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/VHDL" title="VHDL"><img src="https://img.shields.io/badge/VHDL-4F46A5?style=for-the-badge" alt="VHDL"/></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Field-programmable_gate_array" title="FPGA"><img src="https://img.shields.io/badge/FPGA-063B4C?style=for-the-badge" alt="FPGA"/></a>
+</p>
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -90,3 +108,11 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sreerajsanthosh&style=for-the-badge&color=0e4429&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <sub>📫 <a href="mailto:sree98mdy@gmail.com">sree98mdy@gmail.com</a> · <a href="https://www.linkedin.com/in/sreeraj-santhosh-64a285243/">LinkedIn</a></sub>
+</p>
