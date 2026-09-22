@@ -103,7 +103,6 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sreerajsanthosh&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Sreeraj's GitHub statistics"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreerajsanthosh&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000"/>
   </picture>
 
 </div>
