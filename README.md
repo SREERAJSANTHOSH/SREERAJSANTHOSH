@@ -92,7 +92,6 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
 
 ---
 
-## GitHub Analytics
 
 <br/>
 
