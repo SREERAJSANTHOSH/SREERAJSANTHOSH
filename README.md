@@ -122,6 +122,5 @@ Electronics &amp; Communication Engineer with hands-on experience in **FPGA deve
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sreerajsanthosh&bg_color=00000000&color=7dd3fc&line=22d3ee&point=2dd4bf&area=true&hide_border=true&area_color=0ea5e933"/>
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sreerajsanthosh&theme=github-light&hide_border=true&area=true" alt="GitHub contribution activity"/>
   </picture>
 </div>
